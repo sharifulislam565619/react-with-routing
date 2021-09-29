@@ -1,0 +1,12 @@
+.navbar{
+    background-color: black;
+    padding: 12px 0;
+
+}
+.navbar a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 22px;
+    color: burlywood;
+  
+}
